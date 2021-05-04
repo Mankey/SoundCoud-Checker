@@ -1,8 +1,8 @@
 <p align="center">
 	<img
 		width="500"
-		alt="MCsniperPY"
-		src="https://i.imgur.com/hl7h1ta.png?sanitize=true">
+		alt="Soundcloud Username Checker"
+		src="https://bit.ly/3xORzNh">
 </p>
 
 ---
