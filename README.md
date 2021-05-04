@@ -40,7 +40,7 @@ Once you have opened the installer, make sure that you add Python to path. Your 
 
 <img align="center" src="https://i.imgur.com/iefWNyw.png">
 
-Run through the installer as normal, then download the McSniperPY files.
+Run through the installer as normal, then download the checker files.
 
 ### Downloading
 
