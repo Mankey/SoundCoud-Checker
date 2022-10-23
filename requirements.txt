@@ -1,7 +1,2 @@
 requests
 colorama
-os
-time
-Fore
-fore
-init
